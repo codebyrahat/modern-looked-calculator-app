@@ -23,18 +23,21 @@ calculator-app
 To get started with the calculator app, follow these steps:
 
 1. **Clone the repository:**
+
    ```
    git clone <repository-url>
    cd calculator-app
    ```
 
 2. **Install dependencies:**
+
    ```
    npm install
    ```
 
 3. **Build the CSS:**
    Ensure you have Tailwind CSS set up correctly. You can build the CSS using PostCSS:
+
    ```
    npx postcss src/styles/tailwind.css -o src/styles/output.css
    ```
@@ -52,6 +55,4 @@ To get started with the calculator app, follow these steps:
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+                  Thank You.
